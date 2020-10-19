@@ -1,4 +1,4 @@
-# nuxt-starter
+# ⚡ nuxt-starter
 
 This Nuxt starter is an opinionated template project with defaults setup for using firebase/firebase auth with nuxt in SPA mode.
 
